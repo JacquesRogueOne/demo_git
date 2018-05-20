@@ -1,2 +1,2 @@
 # demo_git
-Simple Git Demo for learning Git
+Simple Git Demo to learning Git
